@@ -1,2 +1,2 @@
-# FURIA---Challenge-1---Experi-ncia-Conversacional
-Repositório dedicado ao desafio técnico da FURIA
+# FURIA Challenge 1 ExperinciaConversacional
+Projeto dedicado ao desafio técnico proposto pela FURIA.
