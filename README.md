@@ -4,3 +4,8 @@
 
 # Fala Aí, Furia
 Repositório dedicado ao desafio técnico da FURIA, para desenvolvimento da solução "Fala Aí, FURIA" 
+
+### Libs usadas no front:
+- Vuetify
+- mid/fonts
+
