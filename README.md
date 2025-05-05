@@ -19,3 +19,4 @@ Repositório dedicado ao desafio técnico da FURIA, para desenvolvimento da solu
 - Fazer a tela do chat
 - Reestruturar o projeto usando clean code no front
 - Ver as portas HTTP do backend e arrumar o perfil
+- Implementar a biblioteca para animações: https://animejs.com/
